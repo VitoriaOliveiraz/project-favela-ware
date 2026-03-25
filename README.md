@@ -1,12 +1,12 @@
 # 🚀 Project Favela-Ware
 
-O **Favela-Ware** é uma aplicação web focada em fornecer soluções de agendamento, cadastro e gestão de serviços. O projeto apresenta uma interface moderna, responsiva e intuitiva, organizada de forma modular para facilitar a manutenção e escalabilidade.
+O **Favela-Ware** é um programa social gratuito que eu participei e desenvolvi está aplicação. Uma aplicação web focada em fornecer soluções de agendamento, cadastro e gestão de serviços. O projeto oficial por ser de um iniciante não seguia uma boa arquitetura e tinha más implementações, na época 2024, tentei criar uma interface moderna e responsiva pra passar pra uma vaga de trabalho.
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-Este projeto foi desenvolvido utilizando as seguintes tecnologias:
+Este projeto foi desenvolvido na época utilizando as seguintes tecnologias:
 
 * **HTML5:** Estruturação semântica das páginas.
 * **CSS3:** Estilização personalizada e design responsivo.
@@ -15,7 +15,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ---
 
-## 📂 Estrutura do Projeto
+## 📂 Estrutura do Projeto atualmente
 
 Abaixo, uma visão geral da organização dos arquivos:
 
@@ -26,4 +26,4 @@ PROJECT-FAVELA-WARE/
 │   ├── js/         # Lógica de autenticação, reservas e validações
 │   └── image/      # Ativos de mídia e ícones
 ├── pages/          # Documentos HTML das rotas do sistema
-└── index.html      # Página principal (Entry point)
+└── index.html      # Página principal
